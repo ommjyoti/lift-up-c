@@ -1,2 +1,2 @@
-# lift-up-c-week-1
+# lift-up-c
 Week 1 assignment 
