@@ -14,7 +14,7 @@ int main()
 	{
 		printf("Grade B");
 	}
-	else if (t>=60)
+	else if (t>=70)
 	{
 		printf("Grade C");
 	}
